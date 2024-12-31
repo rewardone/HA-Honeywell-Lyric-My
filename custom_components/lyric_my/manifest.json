@@ -1,7 +1,7 @@
 {
     "domain": "lyric_my",
     "name": "Honeywell Lyric My",
-    "codeowners": ["@timmo001"],
+    "codeowners": ["@rewardone"],
     "config_flow": true,
     "dependencies": ["application_credentials"],
     "dhcp": [
